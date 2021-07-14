@@ -1,10 +1,10 @@
-=== VI: Components Bootstrap 4 ===
+=== VI: Components Bootstrap 5 ===
 Contributors: Knighthawk
 Donate link:
 Tags:
 Requires at least: ?
-Tested up to: 5.3
-Version: 9.2.200903
+Tested up to: 5.7
+Version: 9.0.210714
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -17,12 +17,6 @@ Just include the Bootstrap Components, on the public facing side of the website,
 
 == Changelog ==
 
-= 9.2.200903 =
-* updated to bootstrap version 4.5.2
-
-= 9.1.200310 =
-* added priority of 5
-Effor to to be bumped earlier so that the theme style will have a chance to override naturally.
-
-= 9.1.191204 =
-* FPL v9
+= 9.0.210714 =
+* updated to bootstrap version 5.0.2
+* FPL
